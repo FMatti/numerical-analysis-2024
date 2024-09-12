@@ -2,7 +2,7 @@
 
 ## Course schedule
 
-**Lectures:** Thursdays, 08h15 - 10h00, GC C3 30
+**Lectures:** Thursdays, 08h15 - 10h00, SG 02 11
 
 **Exercises:** Thursdays, 10h15 - 11h00, INF 3 
 
